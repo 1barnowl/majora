@@ -3,7 +3,7 @@ blueprint:
 
 
 
-                                            through networks and syustems, seed will provide growth plan and well rounded-
+                                            through networks and syustems, majora will provide growth plan and well rounded-
                                             survival to provide opportunity for growth plan to establish itself
                                             
                                             This concept of a genome-inspired software blending artificial 
